@@ -43,9 +43,6 @@
 
       </tr>
 
-
-
-
     </tbody>
   </table>
 </main>
